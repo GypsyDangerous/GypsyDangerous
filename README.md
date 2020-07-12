@@ -1,7 +1,7 @@
 # Hi There! I'm David
 
 ![Age](https://img.shields.io/badge/Age-19-blue)
-![location](https://img.shields.io/badge/Live%20in-America-yellow)
+![location](https://img.shields.io/badge/Live%20in-America-red)
 
 * [About Me](#about-me)
 * [Ways to contact me](#ways-to-contact-me)
