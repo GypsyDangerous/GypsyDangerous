@@ -11,7 +11,7 @@
 
 Hello World, I am David Snyder
 
-I am self tought a Software Engineer. I'm making cool things and solving cool problems 😎
+I am self taught a Software Engineer. I'm making cool things and solving cool problems 😎
 
 <table>
 <caption>David Snyder</caption>
