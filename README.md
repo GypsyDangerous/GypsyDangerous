@@ -22,7 +22,7 @@ I am self taught a Software Engineer. I'm making cool things and solving cool pr
 <tbody>
 <tr><th scope='row'>Name</th><td>David Snyder</td></tr>
 <tr><th scope='row'>Education</th><td>GED</td></tr>
-<tr><th scope='row'>Alma mater</th><td>Nation Ford Highschool</td></tr>
+<tr><th scope='row'>Alma mater</th><td>Nation Ford High School</td></tr>
 <tr><th scope='row'>Nationality</th><td>American</td></tr>
 <tr><th scope='row'>Occupation</th><td>Software Engineer</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>
