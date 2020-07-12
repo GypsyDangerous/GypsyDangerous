@@ -9,7 +9,7 @@
 
 ## about Me
 
-Hello World, I am David Snyder
+Hello There, I am David Snyder
 
 I am self taught a Software Engineer. I'm making cool things and solving cool problems 😎
 
