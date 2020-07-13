@@ -42,8 +42,7 @@ I am self taught a Software Engineer. I'm making cool things and solving cool pr
 
 ## Support
 <a href="https://www.buymeacoffee.com/DavidS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-### Contribute to DisStreamChat
-You can support DisStreamChat by contributing to any of the repos on our [page](https://github.com/DisStreamChat)
+
 <!--
 **GypsyDangerous/GypsyDangerous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
