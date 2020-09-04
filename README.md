@@ -7,7 +7,7 @@
 * [Ways to contact me](#ways-to-contact-me)
 * [Support](#support)
 
-## about Me
+## About Me
 
 Hello There, I am David Snyder
 
