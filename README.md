@@ -41,6 +41,8 @@ I am self taught a Software Engineer. I'm making cool things and solving cool pr
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gypsydangerous&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Gypsydangerous's GitHub Stats" />
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gypsydangerous" alt="crypt096" /> </p>
+
 ## ways to contact me
 
 <ul>
