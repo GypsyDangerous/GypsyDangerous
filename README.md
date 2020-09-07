@@ -34,7 +34,7 @@ I am self taught a Software Engineer. I'm making cool things and solving cool pr
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/crypt096/gypsydangerous">
+<a href="https://github.com/gypsydangerous/gypsydangerous">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypt096&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </>
 <a href="https://github.com/crypt096/crypt096">
