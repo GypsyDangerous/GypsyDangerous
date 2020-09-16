@@ -11,26 +11,6 @@
 
 Hello There, I am David Snyder
 
-I am self taught a Software Engineer. I'm making cool things and solving cool problems 😎
-
-<table>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row'>Name</th><td>David Snyder</td></tr>
-<tr><th scope='row'>Education</th><td>GED</td></tr>
-<tr><th scope='row'>School</th><td>Nation Ford High School</td></tr>
-<tr><th scope='row'>Nationality</th><td>American</td></tr>
-<tr><th scope='row'>Occupation</th><td>Software Engineer</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, Python</td></tr>
-<tr><th scope='row'>Title</th><td>Founder and CTO of DisStreamChat</td></tr>
-<tr><th scope='row'>Known For</th><td>DisStreamChat</td></tr>
-</tbody>
-</table>
-
 ## 🔧 Technologies & Tools I use
 
 ###### Frontend
@@ -42,36 +22,22 @@ I am self taught a Software Engineer. I'm making cool things and solving cool pr
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
-
 ###### Backend
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=for-the-badge&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express.js&logoColor=76D04B)
-
 ###### Database
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![Firestore](https://img.shields.io/badge/-Firestore-000000?style=for-the-badge&logo=Firebase)
-
 ###### API
-
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=for-the-badge&logo=RESTAPI&logoColor=336791)
-
 ###### Package managers
-
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=NPM&logoColor=CB3837)
-
 ###### Testing
-
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=Jest&logoColor=C21325)
-
 ###### Build tools
-
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)
-
 ###### Version control system
-
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
 
 
