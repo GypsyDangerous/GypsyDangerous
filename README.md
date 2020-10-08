@@ -51,6 +51,8 @@ Hello There, I am David Snyder
 </a>
 <br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gypsydangerous" alt="" /> </p>
+
+## WakaTime Stats
 <img src="https://github.com/gypsydangerous/gypsydangerous/blob/master/images/stat.svg" alt="Alternative Text"/>
 
 ## ways to contact me
