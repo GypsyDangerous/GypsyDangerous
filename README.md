@@ -29,16 +29,12 @@ Hello There, I am David Snyder
 ###### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![Firestore](https://img.shields.io/badge/-Firestore-000000?style=for-the-badge&logo=Firebase)
-###### API
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=for-the-badge&logo=RESTAPI&logoColor=336791)
 ###### Package managers
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=for-the-badge&logo=NPM&logoColor=CB3837)
 ###### Testing
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=Jest&logoColor=C21325)
 ###### Build tools
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)
-###### Version control system
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=F05032)
 
 
 ## &#x1f4c8; GitHub Stats
