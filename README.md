@@ -63,4 +63,4 @@ Hello There, I am David Snyder
 <a href="https://www.buymeacoffee.com/DavidS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=tracktro)](https://github.com/GypsyDangerous/tracktro)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=tracktro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/tracktro)
