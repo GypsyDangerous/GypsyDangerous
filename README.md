@@ -24,7 +24,6 @@ Hello There, I am David Snyder
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
 ###### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=339933)
-![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=for-the-badge&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express.js&logoColor=76D04B)
 ###### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248)
