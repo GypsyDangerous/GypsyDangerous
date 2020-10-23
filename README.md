@@ -42,7 +42,6 @@ Hello There, I am David Snyder
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gypsydangerous&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Gypsydangerous's GitHub Stats" />
 </a>
 <br></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gypsydangerous" alt="" /> </p>
 
 ## WakaTime Stats
 <img src="https://github.com/gypsydangerous/gypsydangerous/blob/master/images/stat.svg" alt="Alternative Text"/>
@@ -57,5 +56,3 @@ Hello There, I am David Snyder
 
 ## Support
 <a href="https://www.buymeacoffee.com/DavidS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-
