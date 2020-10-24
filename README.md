@@ -31,7 +31,7 @@ Hello There, I am David Snyder
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)
 
 ## Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=tracktro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/tracktro) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=votingo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/fetchio-js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=tracktro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/tracktro) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=votingo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/votingo)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gypsydangerous/gypsydangerous">
