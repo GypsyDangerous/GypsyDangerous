@@ -7,8 +7,8 @@
 ## About Me
 
 I am a Fullstack Software Developer with 2 years of experience. I am working React and Next.js in the frontend and Node/express in the backend. I prefer nosql database like firebase and mongodb. I'm currently learning Typescript. 
-
-## 🔧 Technologies & Tools I use
+<details>
+<summary>🔧 Technologies & Tools I use</summary>
 
 ###### Frontend
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
@@ -29,6 +29,7 @@ I am a Fullstack Software Developer with 2 years of experience. I am working Rea
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=Jest&logoColor=C21325)
 ###### Build tools
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)
+</details>
 
 ## Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=tracktro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/tracktro) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=votingo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/votingo)
