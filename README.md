@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello There, I am David Snyder
+I am a Fullstack Software Developer with 2 years of experience. I am working React and Next.js in the frontend and Node/express in the backend. I prefer nosql database like firebase and mongodb. I'm currently learning Typescript. 
 
 ## 🔧 Technologies & Tools I use
 
