@@ -11,13 +11,12 @@ Hello There, I am David Snyder
 ## 🔧 Technologies & Tools I use
 
 ###### Frontend
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
 ###### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express.js&logoColor=76D04B)
