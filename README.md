@@ -61,7 +61,8 @@ Hi, I'm David Snyder, a passionate self-taught FrontEnd web developer. I'm curre
 ## Projects
 <i>NOTE: The projects listed here could not fit in my pinned section, see that for more.</i>
 <br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=votingo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/votingo)
+[![Votingo](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=votingo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/votingo)
+[![Onelink backend](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=onelink-backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/onelink-backend)
 
 
 ## ways to contact me
