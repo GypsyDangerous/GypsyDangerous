@@ -44,8 +44,7 @@ Hi, I'm David Snyder, a passionate self-taught FrontEnd web developer. I'm curre
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)
 </details>
 
-## Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=votingo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/votingo)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/gypsydangerous/gypsydangerous">
@@ -55,6 +54,10 @@ Hi, I'm David Snyder, a passionate self-taught FrontEnd web developer. I'm curre
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gypsydangerous&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Gypsydangerous's GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=David_Snyder404&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" />
 </a>
+
+## Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=votingo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/votingo)
+
 <br></br>
 
 ## ways to contact me
