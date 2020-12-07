@@ -9,6 +9,9 @@
 <a href="http://discord.disstreamchat.com/">
   <img aria-label="discord" align="left" alt="David's Discord" width="21px" src="/assets/discord-round.svg" />
 </a>
+<br/>
+<br/>
+
 
 * [About Me](#about-me)
 * [Ways to contact me](#ways-to-contact-me)
