@@ -1,4 +1,14 @@
-# Hi There! I'm David
+# Hi there, I'm David 👋
+
+<a href="https://codepen.io/Gypsydangerous">
+  <img aria-label="codepen" align="left" alt="David Snyder | Codepen" width="20px" src="" />
+</a>
+<a href="https://twitter.com/snyderling_">
+  <img aria-label="twitter" align="left" alt="David Snyder | Twitter" width="21px" src="" />
+</a>
+<a href="http://discord.disstreamchat.com/">
+  <img aria-label="discord" align="left" alt="David's Discord" width="21px" src="" />
+</a>
 
 * [About Me](#about-me)
 * [Ways to contact me](#ways-to-contact-me)
