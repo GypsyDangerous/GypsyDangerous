@@ -14,6 +14,8 @@
 
 
 * [About Me](#about-me)
+* [Github Stats](#github-stats)
+* [projects](#projects)
 * [Ways to contact me](#ways-to-contact-me)
 * [Support](#support)
 
@@ -45,20 +47,22 @@ Hi, I'm David Snyder, a passionate self-taught FrontEnd web developer. I'm curre
 </details>
 
 
-## &#x1f4c8; GitHub Stats
-
+## GitHub Stats
+<i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</i>
+<br/>
 <a href="https://github.com/gypsydangerous/gypsydangerous">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gypsydangerous&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</>
+<a/>
 <a href="https://github.com/gypsydangerous/gypsydangerous">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gypsydangerous&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Gypsydangerous's GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=David_Snyder404&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" />
 </a>
 
 ## Projects
+<i>NOTE: The projects listed here could not fit in my pinned section, see that for more.</i>
+<br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gypsydangerous&repo=votingo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/GypsyDangerous/votingo)
 
-<br></br>
 
 ## ways to contact me
 
