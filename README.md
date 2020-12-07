@@ -40,6 +40,7 @@ I am a Fullstack Software Developer with 3 years of experience. I am working Rea
 </>
 <a href="https://github.com/gypsydangerous/gypsydangerous">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gypsydangerous&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Gypsydangerous's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" />
 </a>
 <br></br>
 
