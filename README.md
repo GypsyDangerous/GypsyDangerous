@@ -21,7 +21,7 @@
 
 ## About Me
 
-Hi, I'm David Snyder, a passionate self-taught Software developer. I'm currently learning Typescript and GraphQL. 
+Hi, I'm David Snyder, a passionate self-taught Software developer. 
 <details>
 <summary>🔧 Technologies & Tools I use</summary>
 
