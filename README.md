@@ -21,7 +21,7 @@
 
 ## About Me
 
-Hi, I'm David Snyder, a passionate self-taught Software developer. 
+Hi, I'm David Snyder, a passionate FullStack Software Engineer. 
 <details>
 <summary>🔧 Technologies & Tools I use</summary>
 
